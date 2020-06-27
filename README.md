@@ -1,5 +1,4 @@
 # ML-Sentiment-Analysis
 
-This project involves sentiment analysis of IMBD Movies Review Dataset. 
-Dataset Source: http://ai.stanford.edu/~amaas/data/sentiment/
+This project involves understanding sentiment analysis using IMBD Movies Review Dataset http://ai.stanford.edu/~amaas/data/sentiment/.
 
